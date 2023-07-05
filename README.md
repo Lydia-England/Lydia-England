@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/FRF49gttE3c4g7Gx4B/giphy.gif" width="100"/>
+</div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/lydia-j-england">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
