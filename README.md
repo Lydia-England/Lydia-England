@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h1>
 -->
-
+<!--
 ---
 
 ### 🧑‍💻 About Me:
@@ -55,7 +55,7 @@ After graduation, I plan to obtain a Ph.D. in physics with emphasis in quantum c
 - :star: 2023 Goldwater Scholar.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-j-england)
 
-
+-->
 --- 
 
 ### :hammer_and_wrench: Languages and Tools :
